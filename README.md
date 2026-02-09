@@ -41,14 +41,6 @@ I am building **metacognitive architectures**—AI systems that don't just solve
 * **Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
-
-### 📢 Recent Updates
-* **2026:** Presenting at **OHBM** (Bordeaux) on subcortical markers of self-regulation.
-* **2025:** Presenting at **ISDN** (Kyoto) on inducing reward prediction errors.
-* **2024:** Completed research stay at **Max Planck Institute for Biological Cybernetics** (Tubingen).
-* **Teaching:** Led 49 grad students as TA for **Neuromatch Academy** (Deep Learning), guiding 10 end-to-end research projects.
-
----
 <div align="center">
   <a href="https://www.linkedin.com/in/soan-kim/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -57,14 +49,3 @@ I am building **metacognitive architectures**—AI systems that don't just solve
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
-### My Skills & Languages
-
-Here are some of the languages I work with:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
