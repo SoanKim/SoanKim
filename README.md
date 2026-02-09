@@ -4,8 +4,6 @@
 
 I sit at the intersection of **Theoretical Reinforcement Learning** and **Closed-Loop Systems Engineering**. My work focuses on building resource-rational agents that can reason, reflect, and adapt in sparse-reward environments.
 
-Currently, I am a Ph.D. Candidate at the **Basque Center on Cognition, Brain, and Language**, with research stays at the **Max Planck Institute for Biological Cybernetics** (Advisor: Peter Dayan) and **ATR** (Advisor: Aurelio Cortese).
-
 ---
 
 ### 🔭 Current Focus: The AI Scientist
