@@ -23,7 +23,7 @@ I am building **metacognitive architectures**—AI systems that don't just solve
 * **The Tech:** Implemented a **"Singleton Latch"** mechanism for one-shot schema induction and a parallelized Bayesian optimization pipeline (`scikit-optimize`) for parameter fitting.
 * **The Result:** Validated against human behavioral data ($N=49$), proving that "Insight" acts as a structural gatekeeper for resource-rational control.
 
-#### 🎮 [SET classification (number theory) via DQN](https://github.com/SoanKim/SET)
+#### 🎮 [SET Classification (number theory) via DQN](https://github.com/SoanKim/SET)
 > *End-to-end Deep RL agent for abstract reasoning.*
 * **The Build:** Architected a custom OpenAI Gym-compatible environment for the card game SET.
 * **The Tech:** Trained a **Deep Q-Network (DQN)** to navigate high-dimensional state spaces, optimizing for optimal solution paths.
