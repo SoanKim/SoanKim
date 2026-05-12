@@ -30,7 +30,7 @@ I am building **metacognitive architectures**—AI systems that don't just solve
 
 #### 🔄 Real-Time Decoded Neurofeedback (Closed Source/Lab)
 > *Real-time signal processing pipeline for causal neural modulation.*
-* **The Build:** Engineered a closed-loop system that decodes fMRI patterns in real-time (MVPA) to induce reward prediction errors in human subjects.
+* **The Build:** Implemented a closed-loop system that decodes fMRI patterns in real-time (MVPA) to induce reward prediction errors in human subjects.
 * **The Impact:** Demonstrated a causal link between induced neural states and improved problem-solving performance.
 
 ---
